@@ -1,0 +1,22 @@
+.navbar-brand {
+  font-family: Viga;
+  font-size: 32px;
+}
+
+.mt-5{
+  margin-top: 150px !important;
+}
+
+.list-group-item {
+  font-family: Sulphur Point;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+
+@media (min-width: 992px) { 
+  .nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+  }
+}
